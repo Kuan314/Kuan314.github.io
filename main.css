@@ -1,8 +1,16 @@
 body {
     background-color: lightblue;
-    border: 1px solid;
 }
-div {
+.name {
     color: white;
     text-align: center;
+    font-size: 20px;
+}
+.nameButton {
+    background-color:dimgray;
+    border: none;
+    padding: 10px 30px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
 }
